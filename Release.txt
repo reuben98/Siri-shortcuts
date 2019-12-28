@@ -1,1 +1,1 @@
-{"releasetxt":"this ver is the first","ver":"1.0"}
+{"releasetxt":"this version is the first one.","ver":"1.0"}
